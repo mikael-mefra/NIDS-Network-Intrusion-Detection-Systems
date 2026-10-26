@@ -1,0 +1,1 @@
+## file_id (msg:"Microsoft Office Open XML Format (OOXML) Document (DOCX, PPTX, XLSX)"; file_meta:type NEW_OFFICE, id 331, category "Office Documents,Dynamic Analysis Capable,Local Malware Analysis Capable", group "office"; file_data; content:"| 50 4B 03 04 |", depth 4, offset 0; content:"| 64 6f 63 50 72 6f 70 73 2f |", depth 9, offset 30; gid:4; sid:209; rev:1;)
